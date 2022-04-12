@@ -1,0 +1,16 @@
+.github
+.yarn.installed
+*.lock
+**/log-*.txt
+
+/cache/
+config/keys.cfg
+config/server.cfg
+config/webhooks.cfg
+
+dist
+imgui.ini
+node_modules
+package-lock.json
+
+resources/\[ignore\]/
